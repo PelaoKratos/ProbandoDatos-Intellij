@@ -1,7 +1,7 @@
 package org.movil.app.sintaxisBasica
 
 fun main(){
-    val x:DOOBLE=5.0;
+    val x=5.0;
     val y=3;
 
     val suma = x+y;
