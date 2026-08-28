@@ -1,11 +1,13 @@
 package org.movil.app.sintaxisBasica
 
 fun main(){
+    /*ACA PUEDO REPETIR DATOS*/
     println("LIST")
     var pets=mutableListOf<String>("Boby","Michi","Rex")
     pets.add("Boby")
     println(pets)
 
+    /**/
     println("SET")
     var petsSet = mutableSetOf<String>("Boby","Michi","Rex")
     var nombre_pet: String="Michi"

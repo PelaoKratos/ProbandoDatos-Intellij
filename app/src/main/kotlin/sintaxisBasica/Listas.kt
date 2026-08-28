@@ -19,7 +19,7 @@ fun main(){
     for(i in 1..personas.size-1) {
         println(personas[i])
     }
-
+    /*Inmutable*/
     var numeros=listOf<Int>(10,13,20,29,30)
     for (i in numeros) {
         println(i)
