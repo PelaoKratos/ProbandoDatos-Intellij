@@ -1,4 +1,4 @@
-package org.movil.app.sintaxisBasica
+package org.movil.app.Clases
 
 import kotlin.properties.Delegates
 

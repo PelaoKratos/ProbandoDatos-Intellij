@@ -12,7 +12,7 @@ fun main(){
     println(sumar(2,3,{x,y->x+y}))
 }
 
-
+//Si fuera solo un string puede conn return devolver, pero como es una funcion completa necesita el UNIT
 
 fun mifuncion(nombre:String, saludar:(nombre_completo:String)->Unit){
     println("Entrando en mi funcion lamda")
